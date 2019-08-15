@@ -1,4 +1,5 @@
-## ATTENTION: This repository is compatible with lgsvl simulator 2019.5 or earlier. The latest version of the lgsvl simulator is compatible with the [official autoware repository](https://gitlab.com/autowarefoundation/autoware.ai/autoware). For usage instructions please refer to the [lgsvl simulator documentation](https://www.lgsvlsimulator.com/docs/autoware-instructions/).
+# ATTENTION 
+This repository is compatible with LGSVL Simulator 2019.5 or earlier. The latest version of the LGSVL Simulator is compatible with the [official autoware repository](https://gitlab.com/autowarefoundation/autoware.ai/autoware). For usage instructions please refer to the [LGSVL Simulator documentation](https://www.lgsvlsimulator.com/docs/autoware-instructions/).
 
 # Autoware with LG SVL Simulator
 
